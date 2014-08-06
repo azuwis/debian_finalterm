@@ -1,4 +1,10 @@
-finalterm (0.1-0~128~ubuntu12.04.1) precise; urgency=low
+finalterm (0.1+git163+7000f7a-1+netease1) UNRELEASED; urgency=low
+
+  * New upstream snapshot
+
+ -- Zhong Jianxin <azuwis@gmail.com>  Wed, 06 Aug 2014 09:17:31 +0800
+
+finalterm (0.1) unstable; urgency=low
 
   * Auto build.
 
