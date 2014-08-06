@@ -4,14 +4,13 @@ Priority: extra
 Maintainer: Philipp Emanuel Weidmann <pew@worldwidemann.com>
 Build-Depends: cmake (>= 2.8),
                debhelper (>= 9),
-               valac-0.18 | valac-0.20,
+               valac,
                intltool,
                libgee-0.8-2,
                libgee-0.8-dev,
                libmx-dev,
                libclutter-gtk-1.0-dev,
                libnotify-dev,
-               libunity-dev,
                libkeybinder-3.0-dev
 Standards-Version: 3.9.4
 Homepage: http://finalterm.org/
